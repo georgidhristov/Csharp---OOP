@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OOPExamBlobs\ExamBlobs\bin\Debug\ExamBlobs.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OOPExamBlobs\ExamBlobs\bin\Debug\ExamBlobs.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OOPExamBlobs\ExamBlobs\bin\Debug\ExamBlobs.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OOPExamBlobs\ExamBlobs\obj\Debug\ExamBlobs.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OOPExamBlobs\ExamBlobs\obj\Debug\ExamBlobs.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OOPExamBlobs\ExamBlobs\obj\Debug\ExamBlobs.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkStaticMembersAndNamespaces\Problem4Namespaces\bin\Debug\Problem4Namespaces.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkStaticMembersAndNamespaces\Problem4Namespaces\bin\Debug\Problem4Namespaces.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkStaticMembersAndNamespaces\Problem4Namespaces\bin\Debug\Problem4Namespaces.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkStaticMembersAndNamespaces\Problem4Namespaces\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkStaticMembersAndNamespaces\Problem4Namespaces\obj\Debug\Problem4Namespaces.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkStaticMembersAndNamespaces\Problem4Namespaces\obj\Debug\Problem4Namespaces.pdb

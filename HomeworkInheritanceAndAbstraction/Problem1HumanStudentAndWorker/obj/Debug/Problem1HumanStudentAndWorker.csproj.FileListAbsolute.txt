@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkInheritanceAndAbstraction\Problem1HumanStudentAndWorker\bin\Debug\Problem1HumanStudentAndWorker.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkInheritanceAndAbstraction\Problem1HumanStudentAndWorker\bin\Debug\Problem1HumanStudentAndWorker.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkInheritanceAndAbstraction\Problem1HumanStudentAndWorker\bin\Debug\Problem1HumanStudentAndWorker.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkInheritanceAndAbstraction\Problem1HumanStudentAndWorker\obj\Debug\Problem1HumanStudentAndWorker.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkInheritanceAndAbstraction\Problem1HumanStudentAndWorker\obj\Debug\Problem1HumanStudentAndWorker.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkInheritanceAndAbstraction\Problem1HumanStudentAndWorker\obj\Debug\Problem1HumanStudentAndWorker.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\HomeworkDefiningClasses\Problem3PCCatalog\bin\Debug\Problem3PCCatalog.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\HomeworkDefiningClasses\Problem3PCCatalog\bin\Debug\Problem3PCCatalog.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\HomeworkDefiningClasses\Problem3PCCatalog\bin\Debug\Problem3PCCatalog.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\HomeworkDefiningClasses\Problem3PCCatalog\obj\Debug\Problem3PCCatalog.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\HomeworkDefiningClasses\Problem3PCCatalog\obj\Debug\Problem3PCCatalog.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\HomeworkDefiningClasses\Problem3PCCatalog\obj\Debug\Problem3PCCatalog.pdb

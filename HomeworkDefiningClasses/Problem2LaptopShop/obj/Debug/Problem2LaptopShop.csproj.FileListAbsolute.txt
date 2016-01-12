@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\HomeworkDefiningClasses\Problem2LaptopShop\bin\Debug\Problem2LaptopShop.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\HomeworkDefiningClasses\Problem2LaptopShop\bin\Debug\Problem2LaptopShop.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\HomeworkDefiningClasses\Problem2LaptopShop\bin\Debug\Problem2LaptopShop.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\HomeworkDefiningClasses\Problem2LaptopShop\obj\Debug\Problem2LaptopShop.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\HomeworkDefiningClasses\Problem2LaptopShop\obj\Debug\Problem2LaptopShop.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\HomeworkDefiningClasses\Problem2LaptopShop\obj\Debug\Problem2LaptopShop.csprojResolveAssemblyReference.cache

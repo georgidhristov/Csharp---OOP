@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkInheritanceAndAbstraction\Problem2Animals\bin\Debug\Problem2Animals.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkInheritanceAndAbstraction\Problem2Animals\bin\Debug\Problem2Animals.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkInheritanceAndAbstraction\Problem2Animals\bin\Debug\Problem2Animals.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkInheritanceAndAbstraction\Problem2Animals\obj\Debug\Problem2Animals.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkInheritanceAndAbstraction\Problem2Animals\obj\Debug\Problem2Animals.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkInheritanceAndAbstraction\Problem2Animals\obj\Debug\Problem2Animals.pdb

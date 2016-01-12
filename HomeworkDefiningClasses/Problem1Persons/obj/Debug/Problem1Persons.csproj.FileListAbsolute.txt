@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\HomeworkDefiningClasses\Problem1Persons\bin\Debug\Problem1Persons.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\HomeworkDefiningClasses\Problem1Persons\bin\Debug\Problem1Persons.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\HomeworkDefiningClasses\Problem1Persons\bin\Debug\Problem1Persons.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\HomeworkDefiningClasses\Problem1Persons\obj\Debug\Problem1Persons.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\HomeworkDefiningClasses\Problem1Persons\obj\Debug\Problem1Persons.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\HomeworkDefiningClasses\Problem1Persons\obj\Debug\Problem1Persons.pdb

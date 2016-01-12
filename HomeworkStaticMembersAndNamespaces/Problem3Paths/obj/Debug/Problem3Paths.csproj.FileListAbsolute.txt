@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkStaticMembersAndNamespaces\Problem3Paths\bin\Debug\Problem3Paths.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkStaticMembersAndNamespaces\Problem3Paths\bin\Debug\Problem3Paths.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkStaticMembersAndNamespaces\Problem3Paths\bin\Debug\Problem3Paths.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkStaticMembersAndNamespaces\Problem3Paths\obj\Debug\Problem3Paths.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkStaticMembersAndNamespaces\Problem3Paths\obj\Debug\Problem3Paths.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkStaticMembersAndNamespaces\Problem3Paths\obj\Debug\Problem3Paths.pdb

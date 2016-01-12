@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkExceptionHandling\Problem 1Square Root\bin\Debug\Problem 1Square Root.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkExceptionHandling\Problem 1Square Root\bin\Debug\Problem 1Square Root.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkExceptionHandling\Problem 1Square Root\bin\Debug\Problem 1Square Root.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkExceptionHandling\Problem 1Square Root\obj\Debug\Problem 1Square Root.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkExceptionHandling\Problem 1Square Root\obj\Debug\Problem 1Square Root.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkExceptionHandling\Problem 1Square Root\obj\Debug\Problem 1Square Root.pdb

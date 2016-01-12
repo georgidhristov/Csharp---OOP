@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkExceptionHandling\Problem2EnterNumbers\bin\Debug\Problem2EnterNumbers.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkExceptionHandling\Problem2EnterNumbers\bin\Debug\Problem2EnterNumbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkExceptionHandling\Problem2EnterNumbers\bin\Debug\Problem2EnterNumbers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkExceptionHandling\Problem2EnterNumbers\obj\Debug\Problem2EnterNumbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\HomeworkExceptionHandling\Problem2EnterNumbers\obj\Debug\Problem2EnterNumbers.pdb
